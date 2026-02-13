@@ -17,7 +17,7 @@ export const albumData: Album = {
     },
     {
       id: 2,
-      title: "Persévérance",
+      title: "Persévérance PROXIMO LANZAMIENTO",
       duration: "0:00",
       durationSeconds: 0,
       audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
@@ -33,7 +33,7 @@ export const albumData: Album = {
     },
     {
       id: 4,
-      title: "The Journey",
+      title: "The Journey PROXIMO LANZAMIENTO",
       duration: "0:00",
       durationSeconds: 0,
       audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
@@ -41,7 +41,7 @@ export const albumData: Album = {
     },
     {
       id: 5,
-      title: "Babel",
+      title: "Babel PROXIMO LANZAMIENTO",
       duration: "0:0",
       durationSeconds: 0,
       audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
@@ -49,7 +49,7 @@ export const albumData: Album = {
     },
     {
       id: 6,
-      title: "TeMeSoTiQa",
+      title: "TeMeSoTiQa PROXIMO LANZAMIENTO",
       duration: "0:00",
       durationSeconds: 0,
       audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
@@ -57,7 +57,7 @@ export const albumData: Album = {
     },
     {
       id: 7,
-      title: "Balance",
+      title: "Balance PROXIMO LANZAMIENTO",
       duration: "0:00",
       durationSeconds: 0,
       audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
