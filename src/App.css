@@ -1,0 +1,48 @@
+/* App-specific styles */
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background: rgba(147, 51, 234, 0.3);
+  color: white;
+}
+
+/* Focus styles */
+*:focus-visible {
+  outline: 2px solid rgba(147, 51, 234, 0.5);
+  outline-offset: 2px;
+}
+
+/* Slider custom styles */
+[data-slot="slider-track"] {
+  background: rgba(255, 255, 255, 0.1) !important;
+}
+
+[data-slot="slider-range"] {
+  background: linear-gradient(to right, #9333ea, #3b82f6) !important;
+}
+
+[data-slot="slider-thumb"] {
+  background: white !important;
+  border: none !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Dialog overlay */
+[data-slot="dialog-overlay"] {
+  background: rgba(0, 0, 0, 0.8) !important;
+  backdrop-filter: blur(4px);
+}
+
+/* Scrollbar for lyrics */
+[data-slot="scroll-area-scrollbar"] {
+  background: rgba(255, 255, 255, 0.05) !important;
+}
+
+[data-slot="scroll-area-thumb"] {
+  background: rgba(147, 51, 234, 0.5) !important;
+}
