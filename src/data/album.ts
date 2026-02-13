@@ -129,6 +129,62 @@ Para eso nos encontramos,
 entre millones en el universo,
 no para evitar la tormenta,
 sino para cruzarla juntos.`
+    },
+      {
+      id: 9,
+      title: "Balance PROXIMO LANZAMIENTO",
+      duration: "0:00",
+      durationSeconds: 0,
+      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      lyrics: `La canción estará disponible este año 2026`
+    },
+    {
+      id: 10,
+      title: "Balance PROXIMO LANZAMIENTO",
+      duration: "0:00",
+      durationSeconds: 0,
+      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      lyrics: `La canción estará disponible este año 2026`
+    },
+        {
+      id: 11,
+      title: "Balance PROXIMO LANZAMIENTO",
+      duration: "0:00",
+      durationSeconds: 0,
+      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      lyrics: `La canción estará disponible este año 2026`
+    },
+            {
+      id: 12,
+      title: "Balance PROXIMO LANZAMIENTO",
+      duration: "0:00",
+      durationSeconds: 0,
+      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      lyrics: `La canción estará disponible este año 2026`
+    },
+                {
+      id: 13,
+      title: "Balance PROXIMO LANZAMIENTO",
+      duration: "0:00",
+      durationSeconds: 0,
+      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      lyrics: `La canción estará disponible este año 2026`
+    },
+                    {
+      id: 14,
+      title: "Balance PROXIMO LANZAMIENTO",
+      duration: "0:00",
+      durationSeconds: 0,
+      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      lyrics: `La canción estará disponible este año 2026`
+    },
+                        {
+      id: 15,
+      title: "After the last chord PROXIMO LANZAMIENTO",
+      duration: "0:00",
+      durationSeconds: 0,
+      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      lyrics: `La canción estará disponible este año 2026`
     }
   ]
 };
