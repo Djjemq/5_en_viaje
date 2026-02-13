@@ -17,11 +17,11 @@ export function Footer() {
                 <Music className="w-6 h-6 text-white" />
               </div>
               <span className="font-display text-2xl font-bold text-white">
-                Silent Waves
+                5 en viaje | 5 in journey | 5 dans voyage
               </span>
             </div>
             <p className="text-slate-400 max-w-md mx-auto">
-              Música que conecta almas, trasciende fronteras y despierta emociones.
+              Nuestra Forma de Caminar.
             </p>
           </div>
 
@@ -74,7 +74,7 @@ export function Footer() {
           {/* Copyright */}
           <div className="text-center text-slate-500 text-sm">
             <p className="flex items-center justify-center gap-1">
-              © {currentYear} Silent Waves. Hecho con 
+              © {currentYear} 5 en viaje | 5 in journey | 5 dans voyage. Hecho con 
               <Heart className="w-4 h-4 text-red-500 fill-red-500" /> 
               y pasión por la música.
             </p>
