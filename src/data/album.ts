@@ -68,7 +68,7 @@ export const albumData: Album = {
       title: "No es el lugar",
       duration: "3:38",
       durationSeconds: 218,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      audioUrl: "public/audio/Un pedacito de mi corazón ERMV.mp3",
       lyrics: `Verso 1
 Cruzamos mapas con más preguntas que certezas,
 cajas, papeles, sueños sin garantía.
