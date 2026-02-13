@@ -1,11 +1,11 @@
 import type { Album } from '@/types/song';
 
 export const albumData: Album = {
-  title: "Ecos del Alma",
-  artist: "Silent Waves",
-  releaseDate: "2024",
+  title: "5 en viaje | 5 in journey | 5 dans voyage",
+  artist: "Dj JEMQ",
+  releaseDate: "2026",
   coverImage: "/album-cover.jpg",
-  description: "Un viaje sonoro a través de los paisajes más profundos de la conciencia. Cada canción es un eco de emociones, sueños y memorias que resuenan en el alma.",
+  description: "Este álbum habla de cómo cada uno cambia de maneras diferentes… y aun así caminaron juntos como familia en esta travesía de la vida.",
   songs: [
     {
       id: 1,
