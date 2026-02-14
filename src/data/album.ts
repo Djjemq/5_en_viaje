@@ -28,7 +28,7 @@ export const albumData: Album = {
       title: "Au revoir",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "public/audio/3_Au_revoir.mp3",
+      audioUrl: "/audio/3_Au_revoir.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
     {
@@ -68,7 +68,7 @@ export const albumData: Album = {
       title: "No es el lugar",
       duration: "3:38",
       durationSeconds: 218,
-      audioUrl: "public/audio/8_No_es_el_lugar.mp3",
+      audioUrl: "/audio/8_No_es_el_lugar.mp3",
       lyrics: `Verso 1
 Cruzamos mapas con más preguntas que certezas,
 cajas, papeles, sueños sin garantía.
@@ -135,7 +135,7 @@ sino para cruzarla juntos.`
       title: "Un pedacito de mi corazón SAMV",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "public/audio/8_No_es_el_lugar.mp3",
+      audioUrl: "/audio/8_No_es_el_lugar.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
     {
@@ -143,7 +143,7 @@ sino para cruzarla juntos.`
       title: "Un pedacito de mi corazón ERMV",
       duration: "4:51",
       durationSeconds: 0,
-      audioUrl: "public/audio/10_ERMV.mp3",
+      audioUrl: "/audio/10_ERMV.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
         {
@@ -151,7 +151,7 @@ sino para cruzarla juntos.`
       title: "Un pedacito de mi corazón VZMV",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "public/audio/11_VZMV.mp3",
+      audioUrl: "/audio/11_VZMV.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
             {
@@ -191,7 +191,7 @@ sino para cruzarla juntos.`
       title: "Grabación de melodia Eduardo BONUS TRACK",
       duration: "0:26",
       durationSeconds: 26,
-      audioUrl: "public/audio/16_Eduardo_Grabacion.mp3",
+      audioUrl: "/audio/16_Eduardo_Grabacion.mp3",
       lyrics: `Solo de voz`
     },
                         {
@@ -199,7 +199,7 @@ sino para cruzarla juntos.`
       title: "Grabación de melodia Valeria BONUS TRACK",
       duration: "0:07",
       durationSeconds: 7,
-      audioUrl: "public/audio/17_Valeria_Grabacion.mp3",
+      audioUrl: "/audio/17_Valeria_Grabacion.mp3",
       lyrics: `Solo de voz`
     }
   ]
