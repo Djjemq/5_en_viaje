@@ -1,11 +1,11 @@
 import type { Album } from '@/types/song';
 
 export const albumData: Album = {
-  title: "5 en viaje | 5 in journey | 5 dans voyage",
+  title: "5 dans voyage",
   artist: "Dj JEMQ",
   releaseDate: "2026",
   coverImage: "/album-cover.jpg",
-  description: "Este álbum habla de cómo cada uno cambia de maneras diferentes… y aun así caminaron juntos como familia en esta travesía de la vida.FELIZ DIA DE SAN VALENTIN MI MORZHA Y MIS HIJOS LINDOS!",
+  description: "FELIZ DIA DE SAN VALENTIN MI MORZHA Y MIS HIJOS LINDOS! Este álbum habla de cómo cada uno cambia de maneras diferentes… y aun así caminamos juntos como familia en esta travesía de la vida. Este album tiene 15 canciones pero en esta primera parte les hago llegar estas 5 primeras tonadas hechas con mucho cariño",
   songs: [
     {
       id: 1,
