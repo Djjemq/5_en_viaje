@@ -5,14 +5,14 @@ export const albumData: Album = {
   artist: "Dj JEMQ",
   releaseDate: "2026",
   coverImage: "/album-cover.jpg",
-  description: "Este álbum habla de cómo cada uno cambia de maneras diferentes… y aun así caminaron juntos como familia en esta travesía de la vida.",
+  description: "Este álbum habla de cómo cada uno cambia de maneras diferentes… y aun así caminaron juntos como familia en esta travesía de la vida.FELIZ DIA DE SAN VALENTIN MI MORZHA Y MIS HIJOS LINDOS!",
   songs: [
     {
       id: 1,
       title: "El sueño PROXIMO LANZAMIENTO",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      audioUrl: "public/audio/more-updates-coming-soon.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
     {
@@ -20,7 +20,7 @@ export const albumData: Album = {
       title: "Persévérance PROXIMO LANZAMIENTO",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      audioUrl: "public/audio/more-updates-coming-soon.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
     {
@@ -28,7 +28,7 @@ export const albumData: Album = {
       title: "Au revoir",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      audioUrl: "public/audio/3_Au_revoir.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
     {
@@ -36,7 +36,7 @@ export const albumData: Album = {
       title: "The Journey PROXIMO LANZAMIENTO",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      audioUrl: "public/audio/more-updates-coming-soon.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
     {
@@ -44,7 +44,7 @@ export const albumData: Album = {
       title: "Babel PROXIMO LANZAMIENTO",
       duration: "0:0",
       durationSeconds: 0,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      audioUrl: "public/audio/more-updates-coming-soon.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
     {
@@ -52,7 +52,7 @@ export const albumData: Album = {
       title: "TeMeSoTiQa PROXIMO LANZAMIENTO",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      audioUrl: "public/audio/more-updates-coming-soon.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
     {
@@ -60,7 +60,7 @@ export const albumData: Album = {
       title: "Balance PROXIMO LANZAMIENTO",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      audioUrl: "public/audio/more-updates-coming-soon.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
     {
@@ -68,7 +68,7 @@ export const albumData: Album = {
       title: "No es el lugar",
       duration: "3:38",
       durationSeconds: 218,
-      audioUrl: "public/audio/Un pedacito de mi corazón ERMV.mp3",
+      audioUrl: "public/audio/8_No_es_el_lugar.mp3",
       lyrics: `Verso 1
 Cruzamos mapas con más preguntas que certezas,
 cajas, papeles, sueños sin garantía.
@@ -135,7 +135,7 @@ sino para cruzarla juntos.`
       title: "Un pedacito de mi corazón SAMV",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      audioUrl: "public/audio/8_No_es_el_lugar.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
     {
@@ -143,7 +143,7 @@ sino para cruzarla juntos.`
       title: "Un pedacito de mi corazón ERMV",
       duration: "4:51",
       durationSeconds: 0,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      audioUrl: "public/audio/10_ERMV.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
         {
@@ -151,7 +151,7 @@ sino para cruzarla juntos.`
       title: "Un pedacito de mi corazón VZMV",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      audioUrl: "public/audio/11_VZMV.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
             {
@@ -159,7 +159,7 @@ sino para cruzarla juntos.`
       title: "Chaos PROXIMO LANZAMIENTO",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      audioUrl: "public/audio/more-updates-coming-soon.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
                 {
@@ -167,7 +167,7 @@ sino para cruzarla juntos.`
       title: "Calma PROXIMO LANZAMIENTO",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      audioUrl: "public/audio/more-updates-coming-soon.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
                     {
@@ -175,7 +175,7 @@ sino para cruzarla juntos.`
       title: "Nouvel ordre PROXIMO LANZAMIENTO",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      audioUrl: "public/audio/more-updates-coming-soon.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
                     {
@@ -183,7 +183,7 @@ sino para cruzarla juntos.`
       title: "After the last chord PROXIMO LANZAMIENTO",
       duration: "0:00",
       durationSeconds: 0,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      audioUrl: "public/audio/more-updates-coming-soon.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
                     {
@@ -191,7 +191,7 @@ sino para cruzarla juntos.`
       title: "Grabación de melodia Eduardo BONUS TRACK",
       duration: "0:26",
       durationSeconds: 26,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      audioUrl: "public/audio/16_Eduardo_Grabacion.mp3",
       lyrics: `Solo de voz`
     },
                         {
@@ -199,7 +199,7 @@ sino para cruzarla juntos.`
       title: "Grabación de melodia Valeria BONUS TRACK",
       duration: "0:07",
       durationSeconds: 7,
-      audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      audioUrl: "public/audio/17_Valeria_Grabacion.mp3",
       lyrics: `Solo de voz`
     }
   ]
