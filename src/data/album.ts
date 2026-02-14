@@ -5,7 +5,7 @@ export const albumData: Album = {
   artist: "Dj JEMQ",
   releaseDate: "2026",
   coverImage: "/album-cover.jpg",
-  description: "FELIZ DIA DE SAN VALENTIN MI MORZHA Y MIS HIJOS LINDOS! Este álbum habla de cómo cada uno cambia de maneras diferentes… y aun así caminamos juntos como familia en esta travesía de la vida. Este album tiene 15 canciones pero en esta primera parte les hago llegar estas 5 primeras tonadas hechas con mucho cariño, ah tambien encontraran un par de bonus tracks.",
+  description: "FELIZ DIA DE SAN VALENTIN MI MORZHA Y MIS HIJOS LINDOS! Este álbum habla de cómo cada uno cambia de maneras diferentes… y aun así caminamos juntos como familia en esta travesía de la vida. Este album tiene 15 canciones pero en esta primera parte les hago llegar estas 5 primeras tonadas hechas con mucho cariño, presten mucha atención a la letras de las canciones y descubriran muchos mensajes, ah tambien encontraran un par de bonus tracks.",
   songs: [
     {
       id: 3,
