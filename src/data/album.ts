@@ -22,7 +22,8 @@ export const albumData: Album = {
       durationSeconds: 218,
       audioUrl: "/audio/8_No_es_el_lugar.mp3",
       lyrics: `NO ES EL LUGAR
-      Verso 1
+      
+Verso 1
 Cruzamos mapas con más preguntas que certezas,
 cajas, papeles, sueños sin garantía.
 Cambió el idioma, cambió la calle,
@@ -90,6 +91,7 @@ sino para cruzarla juntos.`
       durationSeconds: 227,
       audioUrl: "/audio/8_No_es_el_lugar.mp3",
       lyrics: `UN PEDACITO DE MI CORAZÓN - Parte 1
+      
 Verso 1 
 Nuevo pasillo, nuevo idioma,
 mismas preguntas en su mente.
@@ -143,6 +145,7 @@ suave voz que también enfrenta.`
       durationSeconds: 291,
       audioUrl: "/audio/10_ERMV.mp3",
       lyrics: `UN PEDACITO DE MI CORAZÓN - Parte 2
+      
 Verso 1
 Ríe mucho antes de pensar,
 se le escapa el mundo por los ojos con solo imaginar,
@@ -186,6 +189,7 @@ el día cambia de color.`
       durationSeconds: 0,
       audioUrl: "/audio/11_VZMV.mp3",
       lyrics: `UN PEDACITO DE MI CORAZON - Parte 3
+      
 Verso 1
 Es la más pequeña en la fila,
 pero camina como si supiera el final.
