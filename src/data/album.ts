@@ -5,63 +5,15 @@ export const albumData: Album = {
   artist: "Dj JEMQ",
   releaseDate: "2026",
   coverImage: "/album-cover.jpg",
-  description: "FELIZ DIA DE SAN VALENTIN MI MORZHA Y MIS HIJOS LINDOS! Este álbum habla de cómo cada uno cambia de maneras diferentes… y aun así caminamos juntos como familia en esta travesía de la vida. Este album tiene 15 canciones pero en esta primera parte les hago llegar estas 5 primeras tonadas hechas con mucho cariño",
+  description: "FELIZ DIA DE SAN VALENTIN MI MORZHA Y MIS HIJOS LINDOS! Este álbum habla de cómo cada uno cambia de maneras diferentes… y aun así caminamos juntos como familia en esta travesía de la vida. Este album tiene 15 canciones pero en esta primera parte les hago llegar estas 5 primeras tonadas hechas con mucho cariño, ah tambien encontraran un par de bonus tracks",
   songs: [
-    {
-      id: 1,
-      title: "El sueño PROXIMO LANZAMIENTO",
-      duration: "0:00",
-      durationSeconds: 0,
-      audioUrl: "public/audio/more-updates-coming-soon.mp3",
-      lyrics: `La canción estará disponible este año 2026`
-    },
-    {
-      id: 2,
-      title: "Persévérance PROXIMO LANZAMIENTO",
-      duration: "0:00",
-      durationSeconds: 0,
-      audioUrl: "public/audio/more-updates-coming-soon.mp3",
-      lyrics: `La canción estará disponible este año 2026`
-    },
     {
       id: 3,
       title: "Au revoir",
       duration: "0:00",
       durationSeconds: 0,
       audioUrl: "/audio/3_Au_revoir.mp3",
-      lyrics: `La canción estará disponible este año 2026`
-    },
-    {
-      id: 4,
-      title: "The Journey PROXIMO LANZAMIENTO",
-      duration: "0:00",
-      durationSeconds: 0,
-      audioUrl: "public/audio/more-updates-coming-soon.mp3",
-      lyrics: `La canción estará disponible este año 2026`
-    },
-    {
-      id: 5,
-      title: "Babel PROXIMO LANZAMIENTO",
-      duration: "0:0",
-      durationSeconds: 0,
-      audioUrl: "public/audio/more-updates-coming-soon.mp3",
-      lyrics: `La canción estará disponible este año 2026`
-    },
-    {
-      id: 6,
-      title: "TeMeSoTiQa PROXIMO LANZAMIENTO",
-      duration: "0:00",
-      durationSeconds: 0,
-      audioUrl: "public/audio/more-updates-coming-soon.mp3",
-      lyrics: `La canción estará disponible este año 2026`
-    },
-    {
-      id: 7,
-      title: "Balance PROXIMO LANZAMIENTO",
-      duration: "0:00",
-      durationSeconds: 0,
-      audioUrl: "public/audio/more-updates-coming-soon.mp3",
-      lyrics: `La canción estará disponible este año 2026`
+      lyrics: `Solo instrumental`
     },
     {
       id: 8,
@@ -152,38 +104,6 @@ sino para cruzarla juntos.`
       duration: "0:00",
       durationSeconds: 0,
       audioUrl: "/audio/11_VZMV.mp3",
-      lyrics: `La canción estará disponible este año 2026`
-    },
-            {
-      id: 12,
-      title: "Chaos PROXIMO LANZAMIENTO",
-      duration: "0:00",
-      durationSeconds: 0,
-      audioUrl: "public/audio/more-updates-coming-soon.mp3",
-      lyrics: `La canción estará disponible este año 2026`
-    },
-                {
-      id: 13,
-      title: "Calma PROXIMO LANZAMIENTO",
-      duration: "0:00",
-      durationSeconds: 0,
-      audioUrl: "public/audio/more-updates-coming-soon.mp3",
-      lyrics: `La canción estará disponible este año 2026`
-    },
-                    {
-      id: 14,
-      title: "Nouvel ordre PROXIMO LANZAMIENTO",
-      duration: "0:00",
-      durationSeconds: 0,
-      audioUrl: "public/audio/more-updates-coming-soon.mp3",
-      lyrics: `La canción estará disponible este año 2026`
-    },
-                    {
-      id: 15,
-      title: "After the last chord PROXIMO LANZAMIENTO",
-      duration: "0:00",
-      durationSeconds: 0,
-      audioUrl: "public/audio/more-updates-coming-soon.mp3",
       lyrics: `La canción estará disponible este año 2026`
     },
                     {
